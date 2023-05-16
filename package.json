@@ -53,7 +53,7 @@
   },
   "devDependencies": {
     "analyze-webpack-plugin": "^0.2.5",
-    "autoprefixer": "7.1.2",
+    "autoprefixer": "9.8.8",
     "babel-core": "6.26.0",
     "babel-eslint": "^10.0.1",
     "babel-loader": "7.1.2",
